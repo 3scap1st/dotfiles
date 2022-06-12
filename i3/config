@@ -274,6 +274,7 @@ mode "resize" {
 assign [class="^Chromium-browser$"] 1:
 assign [class="^Firefox$"] 1:
 assign [class="^Sublime_text$"] 2:
+assign [class="^VSCodium$"] 2:
 assign [class="^Telegram"] 3:
 assign [class="^Tor Browser$"] 4:
 assign [title="^SlimerJS$"] 9:
